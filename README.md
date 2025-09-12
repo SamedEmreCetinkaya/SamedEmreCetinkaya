@@ -7,7 +7,7 @@
 ---
 
 ##  Hakkımda  
-Hayatın garip bir döngüsünde, kodun ve kahvenin birleştiği yerde yolumu bulmaya çalışıyorum. Bazen bir satır kod, bazen bir satır şiir yazıyorum. Teknolojinin karmaşasında yoluma çıkan zorluklara efektif çözümler üreten bir yazılım mühendisiyim.
+Hayatın garip bir döngüsünde, kodun ve kahvenin birleştiği yerde yolumu bulmaya çalışıyorum. Bazen bir satır kod, bazen bir satır şiir yazıyor; bazen ise yalnızca anın farkında olmaya çalışıyorum. Teknolojinin karmaşasında yoluma çıkan zorluklara efektif çözümler üreten bir yazılım mühendisiyim.
 
 ---
 
@@ -30,6 +30,6 @@ Hayatın garip bir döngüsünde, kodun ve kahvenin birleştiği yerde yolumu bu
 ---
 
 ## 📫 Bana Ulaşın  
-- **LinkedIn:** [linkedin.com/in/samedemrecetinkaya](https://linkedin.com/in/samedemrecetinkaya)  
+- **LinkedIn:** [linkedin.com/in/samedemrecetinkaya](http://linkedin.com/in/samed-emre-çetinkaya-5426522b9)  
 - **E-posta:** emre80447@gmail.com  
 
